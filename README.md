@@ -18,7 +18,7 @@ Implemented tasks:
 - **Bonus:** Rating distribution counting how many times each rating (1–5) appears.
 
 Hadoop environment check:
-```bash
+
 hadoop version
 
 Project structure:
